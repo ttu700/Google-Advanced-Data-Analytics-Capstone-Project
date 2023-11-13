@@ -1,4 +1,6 @@
 # Google-Advanced-Data-Analytics-Capstone-Project
+![Certificate](https://github.com/ttu700/Google-Advanced-Data-Analytics-Capstone-Project/tree/main/img/course_cert.pdf)
+
 Verification Link - https://coursera.org/share/135c1faf2912296475eca59eb687269e
 
 The Google Advanced Data Analytics Certificate contains information on how to use machine learning, predictive modeling, and experimental design to collect and analyze large amounts of data, and prepare for jobs like Senior Data Analyst and Junior Data Scientist.
